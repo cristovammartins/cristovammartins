@@ -43,8 +43,9 @@
     <img align="center" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </p>
 
-<details>
-  <summary>📃 About Me</summary>
+<p align='center'>
+	📃 About Me
+</p>
 
 ## Experience 🚀
 
@@ -52,8 +53,6 @@
 📆 2019 - 2021 Moment\
 📍 **Viva Software** - Aparecida de Goiânia, - GO, Brazil
 📍 **R3 Suprimentos Corporativos** - Goiânia, - GO, Brazil
-
-</details>
 
 <!---
 - 👋 Hi, I’m @cristovammartins
