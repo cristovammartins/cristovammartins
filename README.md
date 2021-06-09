@@ -22,7 +22,7 @@
 </p>
 
 <p align='center'>
-  📱 How to talk to me: <a href='https://api.whatsapp.com/send/?phone=5562984035561&text&app_absent=0' target="_blank">+55 62984035561</a>
+  📱 How to talk to me: <a target='_blank' rel='noopener' href='https://api.whatsapp.com/send/?phone=5562984035561&text&app_absent=0'>+55 62984035561</a>
 </p>
 
 <p align='center'>
