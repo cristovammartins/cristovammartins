@@ -51,7 +51,7 @@
 
 - 👨‍💻 **Developer**\
 📆 2019 - 2021 Moment\
-📍 **Viva Software** - Aparecida de Goiânia, - GO, Brazil
+📍 **Viva Software** - Aparecida de Goiânia, - GO, Brazil\
 📍 **R3 Suprimentos Corporativos** - Goiânia, - GO, Brazil
 
 <!---
