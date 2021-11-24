@@ -48,8 +48,8 @@
 
 ## Experience 🚀
 
-- 👨‍💻 **Developer**\
-📆 2019 - 2021 Moment\
+- 👨‍💻 **Developer** 📆 2016 - 2021 Moment\
+📍 **NutriNectar | Grupo Mariza** - Goiânia, - GO, Brazil\
 📍 **Viva Software** - Aparecida de Goiânia, - GO, Brazil\
 📍 **R3 Suprimentos Corporativos** - Goiânia, - GO, Brazil
 
