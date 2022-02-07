@@ -49,6 +49,10 @@
 	📃 About Me
 </p>
 
+<div>
+    <img align="right" alt="GIF" src="https://github.com/cristovammartins/cristovammartins/blob/main/code.gif?raw=true"
+        width="400" />
+
 ## Experience 🚀
 
 - 👨‍💻 **Developer** 📆 2016 - 2022 Moment\
@@ -56,7 +60,7 @@
 📍 **R3 Suprimentos Corporativos** - Goiânia, - GO, Brazil\
 📍 **Viva Software** - Aparecida de Goiânia, - GO, Brazil\
 📍 **Mais Sistem** - Aparecida de Goiânia, - GO, Brazil
-
+</div>
 <!---
 - 👋 Hi, I’m @cristovammartins
 - 👀 I’m interested in ...
