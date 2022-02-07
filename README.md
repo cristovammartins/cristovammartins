@@ -1,4 +1,7 @@
-
+<p align="center">
+    <img
+        src="https://readme-typing-svg.herokuapp.com/?lines=5%2B%20years%20of%20coding%20experience&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22">
+</p>
 
 <h1 align='center'>
   Hi there 👋 I'm Cristovam Martins 👨‍💻
