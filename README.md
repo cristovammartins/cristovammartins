@@ -45,6 +45,12 @@
     <img align="center" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </p>
 
+<div align="center">
+
+ [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://replit.com/@ziyankp/Bixby-mowl)
+ 
+ <div align="left">
+
 <p align='left'>
 	📃 About Me
 </p>
