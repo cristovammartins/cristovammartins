@@ -46,8 +46,6 @@
 </p>
 
 <div align="center">
-
- [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://replit.com/@ziyankp/Bixby-mowl)
  
  <div align="left">
 
