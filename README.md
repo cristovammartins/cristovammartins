@@ -60,7 +60,8 @@
 ## Experience 🚀
 
 - 👨‍💻 **Developer** 📆 2016 - 2023 Moment\
-📍 **NutriNectar | Grupo Mariza** - Goiânia, - GO, Brazil\
+📍 **Hoodesk** - Goiânia, - GO, Brazil\
+📍 **NutriNectar | Grupo Mariza** - Goiânia, - GO, Brazil\	
 📍 **R3 Suprimentos Corporativos** - Goiânia, - GO, Brazil\
 📍 **Viva Software** - Aparecida de Goiânia, - GO, Brazil\
 📍 **Mais Sistem** - Aparecida de Goiânia, - GO, Brazil
