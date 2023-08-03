@@ -20,9 +20,9 @@
   </a>
 </p>
 
-<p align='center'>
+<!--<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=cristovammartins&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+</p>-->
 
 <p align='center'>
   📱 How to talk to me: <a target='_blank' rel='noopener' href='https://api.whatsapp.com/send/?phone=5562986660528&text&app_absent=0'>+55 62986660528</a>
